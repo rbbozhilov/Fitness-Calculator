@@ -3,8 +3,8 @@
 If you want to increase muscle mass or lose some weight , this program is maded to calculate how much protein,carbohydrates,calories,fats you need to eat per day .<br/>
 Just you need to follow the steps :<br/>
 <br/>
-1 - Download the rar file "Download-Program" <br/>
-2 - Make some random folder in your computer and extract all files from rar file in the folder <br/>
+1 - Download the zip file "Download-Program" <br/>
+2 - Make some random folder in your computer and extract all files from zip file in the folder <br/>
 3 - You need to have Visual Studio to start the project , because is made on simple console app ( soon will be updated on other technologie ) <br/>
 4 - Open the "FitnessCalculator.csproj" file , the files will be started automatically in visual studio <br/>
 5 - When the files are started in Visual Studio , just press CTRL + F5 , the program will start <br/>
