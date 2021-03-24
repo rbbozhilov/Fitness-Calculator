@@ -8,11 +8,11 @@ Just you need to follow the steps :<br/>
 3 - You need to have Visual Studio to start the project , because is made on simple console app ( soon will be updated on other technologie ) <br/>
 4 - Open the "FitnessCalculator.csproj" file , the files will be started automatically in visual studio <br/>
 5 - When the files are started in Visual Studio , just press CTRL + F5 , the program will start <br/>
-6 - Follow the steps in the program , write your name , age and weight currect !  <br/>
+6 - Follow the steps in the program , write your name , age and weight correct !  <br/>
 7 - Choice from the menu in the program what you want to do , increase , lose or maintenance your weight <br/>
-8 - If you follow this steps currectly , the program should automatically calculates how much you need protein,carbohydrates,calories,fats per day <br/>
+8 - If you follow this steps correctly , the program should automatically calculates how much you need protein,carbohydrates,calories,fats per day <br/>
 
-IMPORTANT : write currectly your information and choices in menu , because if you don't write something currectly you must start the program again with CTRL+F5. <br/>
+IMPORTANT : write correctly your information and choices in menu , because if you don't write something correctly you must start the program again with CTRL+F5. <br/>
 <br/>
 <br/>
 ENJOY IT!<br/>
