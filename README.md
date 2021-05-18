@@ -12,7 +12,7 @@ Just you need to follow the steps :<br/>
 7 - Choice from the menu in the program what you want to do , increase , lose or maintenance your weight <br/>
 8 - If you follow this steps correctly , the program should automatically calculates how much you need protein,carbohydrates,calories,fats per day <br/>
 
-IMPORTANT :write correctly your information and choices in menu , because if you don't write something correctly you must start the program again with CTRL+F5. <br/>
+IMPORTANT : write correctly your information and choices in menu , because if you don't write something correctly you must start the program again with CTRL+F5. <br/>
 <br/>
 <br/>
 ENJOY IT!<br/>
