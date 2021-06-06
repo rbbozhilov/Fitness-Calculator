@@ -7,7 +7,6 @@ namespace FitnessCalculator.Models
 {
     public class Calculator : ICalculator
     {
-
         private double kg = 0;
         private double pr = 0;
         private double kl = 0;
